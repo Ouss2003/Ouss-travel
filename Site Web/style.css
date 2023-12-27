@@ -1,0 +1,141 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* Section 1 */
+.A {
+  float: left;
+  font-size: 30px;
+  color: dimgray;
+  background-color: rgb(107, 47, 47);
+  border-radius: 100%;
+}
+
+ul {
+  list-style: none;
+  float: right;
+}
+
+li {
+  float: left;
+  padding: 10px;
+  font-size: 22px;
+  color: dimgray;
+}
+
+nav {
+  height: 65px;
+  background-color: aqua;
+}
+
+a {
+  text-decoration: none;
+  color: dimgray;
+}
+
+.btn1 {
+  background-color: red;
+  border-radius: 100%;
+  padding: 10px;
+  color: white;
+  margin-top: 25px;
+}
+
+.content {
+  height: 600px;
+  background-image: url("j.jpg");
+  text-align: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.d1 {
+  padding: 150px;
+}
+
+.B {
+  color: rgb(105, 42, 42);
+  font-size: 50px;
+}
+
+.p1 {
+  margin-top: 30px;
+  color: rgb(252, 252, 252);
+}
+
+/* Section 2 */
+.t2 {
+  text-align: center;
+  font-size: 30px;
+  color: dimgray;
+  margin: 20px;
+}
+
+.p2 {
+  float: left;
+  width: 67%;
+}
+
+.secimg {
+  float: right;
+  width: 30%;
+  margin-bottom: 60px;
+}
+
+.btn2 {
+  background-color: red;
+  border-radius: 100%;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  margin-left: 380px;
+  margin-bottom: 60px;
+}
+
+/* Section 3 */
+.t3 {
+  color: dimgray;
+  text-align: center; /* Centrer le texte horizontalement */
+  margin-left: 430px;
+  margin-bottom: 15px;
+}
+.d {
+  width: 31%;
+  height: 150px;
+  float: left;
+  padding: 10px;
+  background-color: rgb(18, 168, 168);
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  margin-bottom: 5px;
+}
+.d:hover {
+  background-color: gainsboro;
+}
+.t4 {
+  color: dimgray;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.btn3 {
+  background-color: red;
+  border-radius: 100%;
+  padding: 10px;
+  color: white;
+  margin-top: 5px;
+}
+.form1 {
+  width: 40%;
+  float: left;
+}
+/* Dans votre fichier style.css */
+
+footer {
+  background-color: aqua;
+  color: dimgray;
+  text-align: center;
+  height: 30px;
+}
